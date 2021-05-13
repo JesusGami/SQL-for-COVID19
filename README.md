@@ -12,4 +12,10 @@ The dataset only contains *1,182,695* records until **August 17, 2020**.
 
 This is the diagram of the data:
 
-![](/data/covid_schema.pdf)
+![](data/covid_diagram.jpg)
+
+In this link you can donwload de SQL file:
+
+https://drive.google.com/drive/folders/1EEdawyT_HHcQaFoeA4MR-jMyTSUbKGnt?usp=sharing
+
+Let's get started!
