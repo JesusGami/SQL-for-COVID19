@@ -14,7 +14,7 @@ This is the diagram of the data:
 
 ![](data/covid_diagram.jpg)
 
-In this link you can donwload de SQL file:
+In this link you can donwload de **SQL file** and the **diagram**:
 
 https://drive.google.com/drive/folders/1EEdawyT_HHcQaFoeA4MR-jMyTSUbKGnt?usp=sharing
 
